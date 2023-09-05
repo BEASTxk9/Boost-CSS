@@ -1,0 +1,1403 @@
+
+body#page-course-view-remuiformat.editing .remui-format-list .sections .section .sectionname {
+    background-color: transparent !important;
+    font-size:20px
+}
+
+body#page-course-view-remuiformat .remui-format-list .sections .section .sectionname {
+    background-color: transparent !important;
+}
+
+body#page-course-view-remuiformat .container-fluid #region-main {
+    background-color: transparent !important;
+}
+body#page-course-view-remuiformat .remui-format-list #section-0 .course-cover-image {
+    background-color: transparent !important;
+    background-image: url(https://i.imgur.com/RjKVuUy.jpg) !important;
+    border-radius: 10px;
+}
+body#page-course-view-remuiformat .remui-format-list.all-section-format ul.sections li.section:not(#section-0)>div {
+    border-radius: 10px;
+}
+
+body#page-course-view-remuiformat .mdl-right {
+    display: none;
+}
+
+.loginbutton {
+    transition: all ease 0.3s;
+    -webkit-transition: all ease 0.3s !important;
+    -moz-transition: all ease 0.3s !important;
+    border: 1px solid #61223b;
+    background-color: #61223b !important;
+    letter-spacing: -0.01em !important;
+}
+
+.card-body{
+padding-top: 15px;
+padding-left: 5px;
+padding-right: 5px;
+padding-bottom: 15px;
+}
+
+.logincard {
+    /* Add shadows to create the "card" effect */
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2);
+    transition: 0.3s;
+    border-radius: 5px; /* 5px rounded corners */
+}
+
+/* On mouse-over, add a deeper shadow */
+.logincard:hover {
+    box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2);
+}
+
+/* Add rounded corners to the top left and the top right corner of the image */
+img {
+    border-radius: 5px 5px 0 0;
+}
+
+.card-img-top {
+    width: 100%;
+    height: 15vw;
+    object-fit: cover;
+}
+
+.card-login {
+    width: 25%;
+}
+
+.pagelayout-frontpage .card {
+      background-color: transparent;
+    border: none;
+    margin-bottom: 0;
+}
+
+h3.sectionname {
+    font-size: 1.2rem;
+   color: #1E1B1D;
+}
+
+body {
+    background-color: white; 
+    scroll-behavior: smooth;
+}
+
+.navbar-light {
+    border-bottom: 3px solid #61223b;
+}
+
+#frontpage-course-list h2 {
+    margin-bottom: 9px;
+    text-transform: uppercase;
+    padding: .5rem;
+    font-size: 20px;
+    font-weight: 900;
+}
+
+.navbar-light .navbar-brand {
+    background-color: #FFFFFF !important;
+}
+
+.navbar-light .navbar-brand.has-logo {
+    background-color: #FFFFFF;
+    color: #FFFFFF;
+}
+
+.action-menu .dropdown-toggle {
+    text-decoration: none;
+}
+
+h1 {
+color: white;
+font-size: 1.8rem;
+display:none;
+}
+
+h2, h3 {
+    color: #61223b;
+}
+
+ .block-region .card-body .card-block .card-title, .block-region #page-enrol-users #filterform .card-title, #page-enrol-users .block-region #filterform .card-title, .block-region .userprofile .profile_tree section .card-title, .userprofile .profile_tree .block-region section .card-title, .block-region .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-right .card-title, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .block-region .yui-layout-unit-right .card-title, .block-region .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-bottom .card-title, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .block-region .yui-layout-unit-bottom .card-title, .block-region .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax #chat-messages .chat-message.course-theme .card-title, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax #chat-messages .block-region .chat-message.course-theme .card-title, .block-region .well .card-title {
+    padding: 12px;
+    background-color: #61223b;
+    border-radius: 10px;
+    font-weight: bold;
+    font-size: 14px;
+}
+
+h3.card-title {
+    color: black;
+   text-align: center;
+}
+
+body#page-login-index {
+ background: url(https://i.imgur.com/5603irU.jpg);
+ background-size: cover;
+background-position: center;
+}
+
+/* Shane update */
+#page-header .card {
+height: 225px;
+/* Tristan update */
+background: url(https://i.imgur.com/vbtM2ZT.png);
+border-radius: 10px;
+background-color: transparent;
+background-size: cover;
+background-position: center;
+}
+
+
+.pagelayout-incourse #page-header .card {
+    height: 150px;
+}
+
+div#page-navbar {
+    position:relative;
+    width: 100%;
+}
+
+#page-header .card-block {
+    position: absolute;
+    width: 100%;
+    bottom: 0px;
+}
+
+.card, #page-enrol-users #filterform, .que .history, .userprofile .profile_tree section, .groupinfobox, .forumpost, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-right, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax .yui-layout-unit-bottom, .yui-skin-sam .yui-layout.path-mod-chat-gui_ajax #chat-messages .chat-message.course-theme, .well {
+    border: 0px
+}
+
+.alert-info, #page-admin-index .releasenoteslink, #adminsettings .form-overridden, .que .formulation {
+    color: #000000;
+    font-size: 16px;
+}
+
+.courses>.paging.paging-morelink {
+    display: none
+}
+
+#quiz-timer {
+    background: none repeat scroll 0 0 #891536;
+    color: #fff;
+    display: none;
+    font-size: 22px;
+    margin-top: 1em;
+    padding: 5px;
+    position: fixed;
+    z-index: 10000;
+}
+
+a .icon {
+    color: #4d5355;
+}
+
+.action-menu .dropdown-toggle {
+    color: #000000;
+    font-family: Lato;
+}
+
+.nav-tabs .nav-link {
+    color: #000000;
+}
+
+.breadcrumb {
+    background-color: #FFFFFF;
+    padding: .5rem .5rem;
+    list-style: none;
+    background-color: rgba(255,255,255,.65);
+    border-radius: .25rem;
+}
+
+a {
+    color: #000000;
+}
+
+#page-footer a {
+    color: #95a3a3;
+    text-decoration: none;
+}
+
+.progress-chart-container .progress-doughnut .progress-text.has-percent {
+    color: #000000;
+}
+
+.progress-chart-container .progress-doughnut .progress-indicator svg .circle.percent-100 {
+    stroke: #77b300;
+}
+
+abbr[title], abbr[data-original-title] {
+    border-bottom: 0px solid #818a91;
+}
+
+abbr[title] {
+    text-decoration: underline solid;
+}
+
+.jumbotron {
+    padding-top: 0rem;
+    padding-bottom: 5rem;
+    margin-bottom: 0;
+    background-color: #fff;
+}
+.text-center {
+    text-align: center!important;
+}
+
+.jumbotron .container {
+    max-width: 40rem;
+}
+
+/* Tristan update*/
+.btn-primary {
+    color: #ffff !important;
+    background-color: #61223b;
+    border-color: #61223b;
+}
+
+.btn {
+    display: inline-block;
+    font-weight: 400;
+    line-height: 1.25;
+    text-align: center;
+    white-space: nowrap;
+    vertical-align: middle;
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+    border: 1px solid transparent;
+    padding: .5rem 1rem;
+    font-size: 1rem;
+    border-radius: .25rem;
+    -webkit-transition: all .2s ease-in-out;
+    -o-transition: all .2s ease-in-out;
+    transition: all .2s ease-in-out;
+}
+
+.block_myoverview .card-deck .myoverviewimg {
+  height: 0px;
+}
+
+body {
+    font-size: .9rem;
+}
+
+.card-title {
+    margin-bottom: .75rem;
+    padding: 12px;
+    background-color: #61223b;
+    border-radius: 10px;
+    font-weight: 700;
+    font-size: 14px;
+    color: white;
+    text-align: center;
+    text-transform: uppercase;
+    display: block;
+}
+
+.d-inline {
+    display: block!important;
+}
+
+div#page-navbar {
+    width: auto;
+}
+
+.nav-pills .nav-link.active, .nav-pills .show>.nav-link {
+    border-radius: 5px;
+}
+
+[data-region="drawer"] {
+    background-color: #f8f7f2;
+    background-image: url("https://i.imgur.com/RjKVuUy.jpg");
+    background-size: 400px;
+}
+
+/* Shane update */
+/* zoom, teams, stream */
+.jumbotron table, #module-39317{
+  display: none; 
+    height: 0px;
+   }
+/* Tristan update */
+marquee{
+display: none;
+}
+
+/* Tristan update */
+.section .label .contentwithoutlink,
+.section .label .activityinstance {
+  padding-right: 0px;
+}
+
+/*Tristan update */
+/*Centers login in mobile view*/
+.path-site li.activity>div, .path-course-view li.activity>div{
+padding-left: 16px;
+}
+
+/* Shane update */
+/* content section */
+#region-main {
+border-radius: 5px;
+}
+
+/* Shane update */
+/* calendar page button responsivness */
+@media only screen and (max-width: 373px){
+	.maincalendar div .singlebutton {
+margin-top: 5px;
+margin-bottom: 5px;
+    }
+}
+
+
+
+
+/*Tristan update*/
+.list-group-item{
+border-radius: 5px;
+margin-bottom: 3px;
+}
+
+/* Shane update */
+/* IT help support thing */
+.atlwdg-trigger.atlwdg-RIGHT{
+display: none;
+}
+
+/*Tristan update*/
+/*Calendar select mobile view*/
+@media only screen and (max-width: 739px){
+.select.custom-select.cal_courses_flt.ml-1.mr-auto{
+margin-bottom: 15px;
+}
+}
+
+/* Shane update */
+/* edit btns */
+    .action-menu.moodle-actionmenu.block-control-actions.commands.d-inline div.menubar.d-flex div.action-menu-item{
+        padding-left: 5px;
+        padding-right: 5px;
+    }
+  .action-menu.moodle-actionmenu.block-control-actions.commands.d-inline{
+            margin-top: 5px;
+            margin-bottom: 5px;
+z-index: 500 !important;
+position: relative;
+        }
+        .block-controls .float-right .header{
+position: relative;
+top: -1vh;
+        }
+
+    /* Shane update */
+/* recent course side buttons */
+.block_recentlyaccessedcourses .paging-bar-container{
+margin-top: 0px;
+}
+
+/*Tristan update*/
+/*Removes event keys*/
+.calendar_filters.mt-2 {
+    display: none;
+}
+
+/* Shane update */
+/* course overview card */
+.block .block-cards .course-info-container {
+    border-left: 1px solid rgb(207, 207, 207);
+    border-right: 1px solid rgb(207, 207, 207);
+}
+
+/*Tristan update*/
+.dashboard-card-deck .dashboard-card .dashboard-card-footer{
+    border-bottom-left-radius: 5px !important;
+      border-bottom-right-radius: 5px !important;
+}
+.dashboard-card-deck .dashboard-card .dashboard-card-img{
+       border-top-left-radius: 5px !important;
+      border-top-right-radius: 5px !important; 
+}
+.card.dashboard-card {
+ box-shadow: rgba(0,0,0,.05) 0 1px 0, rgba(0,0,0,.05) 0 2px 6px, rgba(0,0,0,.05) 0 0 20px!important;
+}
+.block .block-cards .course-info-container {
+border:none;
+}
+/* recent courses card */
+.dashboard-card-deck.fixed-width-cards div.card-body.pr-1.course-info-container{
+         border-bottom-left-radius: 5px !important;
+      border-bottom-right-radius: 5px !important; 
+}
+
+/* Joshua update */
+/* content sections border */
+@media (min-width: 576px) {
+    #region-main {
+        border:none;
+        padding: 1.25rem
+    }
+}
+
+/*Tristan update*/
+/*makes user image smaller*/
+img.userpicture.defaultuserpic {
+    width: 30px;
+    height: 30px;
+}
+
+/*Tristan update*/
+/*removes username*/
+span.usertext.mr-1 {
+    display: none;
+}
+
+/*Tristan update*/
+/*removes dropdown icon*/
+.dropdown-toggle::after{
+display: none;
+}
+
+/*Tristan update*/
+/*fixes user image alignment*/
+img.userpicture {
+    margin-right: 0;
+}
+
+/*Tristan update*/
+/*Removes search bar and icon*/
+.search-input-wrapper.nav-link{
+display: none;
+}
+
+/* Shane update */
+/* course overview */
+.block-myoverview div .card-deck {
+    overflow-y: scroll;
+    max-height: 100vh;
+    transition: all 0.3s ease-in-out;
+    scroll-behavior: smooth;
+}
+
+.atlwdg-trigger.atlwdg-SUBTLE{
+display: none;
+}
+
+.fp-filename {
+    font-size: medium;
+    font-weight: 600 !important;
+}
+
+/* push login text to ceneter (shane) */
+/*
+.section .label .contentwithoutlink, .section .label .activityinstance {
+padding-right: 0;
+margin-top: 10vh;
+}
+*/
+
+/* hides banner heads h1(shane) */
+.page-context-header .page-header-headings, .page-context-header .header-button-group h1 {
+display: none;
+}
+/* shane update breadcrumb */
+/* shane update breadcrumb */
+.breadcrumb{
+padding: 0.2rem 0.2rem !important;
+background-color:  #61223bdc !important;
+color: white !important;
+font-size: 0.7rem !important;
+transition: all 0.3s ease-in-out;
+margin-top: 13vh;
+}
+.breadcrumb-item a{
+    color: white !important;
+font-size: 0.7rem !important;
+transition: all 0.3s ease-in-out;
+background-color: transparent !important;
+border: none !important;
+}
+
+@media only screen and (max-width: 410px){
+.breadcrumb{
+font-size: 0.6rem !important;
+}
+.breadcrumb-item a{
+font-size: 0.6rem !important;
+}
+}
+@media only screen and (max-width: 350px){
+.breadcrumb{
+font-size: 0.4rem !important;
+}
+.breadcrumb-item a{
+font-size: 0.4rem !important;
+}
+}
+.breadcrumb-item+.breadcrumb-item::before {
+color: white;
+}
+
+/* removes private files header(shane) */
+.page-context-header {
+display:none;
+}
+div#page-navbar {
+    width: auto;
+    z-index: 500;
+}
+
+/* Remove Your progress on Topic outline (Joshua) */
+.path-course-view .completionprogress {
+    display: none;
+}
+
+.dropdown-item {
+border-radius: 10px;
+}
+
+.dropdown-menu.show {
+border-radius: 10px;
+}
+
+.popover-region-container {
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.popover-region-footer-container {
+    border-bottom-right-radius: 10px;
+    border-bottom-left-radius: 10px;
+}
+
+/* banner responsivness (shane) */
+@media only screen and (max-width: 900.5px){
+    #page-header .card {
+        background-size: contain !important;
+        background-repeat: no-repeat !important;
+    }
+    }
+@media only screen and (max-width: 600.5px){
+#page-header .card {
+    height: 150px;
+}
+}
+@media only screen and (max-width: 600px){
+    .breadcrumb{
+        margin-top: 8.5vh;
+        }
+}
+
+.img-fluid {
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+.vjs-poster {
+    background-color: #fff;
+}
+
+.homelink {
+display:none;
+}
+
+.logininfo {
+display:none;
+}
+
+.sitelink img {
+    display: none;
+}
+
+.nav navbar-nav d-md-none {
+display:none;
+}
+/*footer image controls*/
+.img-footer{
+    background-color:#343a40;
+    width: 40px;
+    height: 40px;
+}
+
+/*Adds rounded corners*/
+.form-control {
+    border-radius: 10px !important;
+}
+
+/*Adds rounded corners*/
+.form-inline .custom-select {
+    border-radius: 10px !important;
+}
+
+.custom-select {
+border-radius:10px !important;
+}
+
+/*Reduces button sizes and titles (Tristan)*/
+#buttonsectioncontainer .divisortext {
+     height: 37px!important;
+     margin: 0px 1px 1px 1px !important; 
+}
+#buttonsectioncontainer .divisorsection {
+    display: inline-block;
+    padding: 0;
+    overflow-y: hidden;
+    height: 52px;
+    margin: 0 4px 10px 0px;
+}
+#buttonsectioncontainer .buttonsection {
+     width: 38px;
+     line-height: 36px;
+     height:38px;
+    margin: 0 10px 1px 0px;
+}
+
+/*login container*/
+.login-container {
+margin-top: 10vh;
+}
+
+/*fix session names breaking off*/
+.card-header h5 strong {
+    color: #612022;
+    text-wrap: wrap;
+}
+
+/* width (shane)*/
+::-webkit-scrollbar {
+    width: 10px;
+  }
+ 
+  /* Track */
+  ::-webkit-scrollbar-track {
+    border-radius: 0px;
+   background-color: rgba(255, 255, 255, 0.507);
+  }
+   
+  /* Handle */
+  ::-webkit-scrollbar-thumb {
+    border: 1px solid rgb(214 197 197 / 23%);
+    background-color: rgba(128, 128, 128, 0.514);
+    border-radius: 10px;
+  }
+
+/* remove nav btn from landing page (shane) */
+body#page-site-index nav div button {
+    display: none !important;
+}
+
+/*Tristan update*/
+/* banner responsivness big screens (shane) */
+@media only screen and (min-width: 1024px){
+    /* banner img */
+#page-header .card {
+    height: 20vh !important;
+}
+}
+
+/* nav title name (shane) */
+span.site-name.d-none.d-md-inline {
+    display: none !important;
+}
+
+/*Tristan update*/
+#page-footer a:not([class]):focus {
+    background-image: url(https://i.imgur.com/sUk9R6H.jpg);
+    background-color: #61223b;
+    box-shadow: none;
+}
+
+/*Joshua update*/
+.breadcrumb a:not([class]):focus {
+    outline: none;
+    box-shadow: none;
+}
+
+.card-title {
+    padding: 8px;
+}
+/*Joshua update*/
+.block .calendar-controls .current {
+    font-size: 20px;
+    font-weight: 100;
+}
+/*Joshua update*/
+.block_simple_clock .clock {
+    font-weight: 700;
+}
+
+.block_simple_clock .clockTable td {
+    font-weight: 700;
+    font-size: medium;
+}
+/*Joshua update*/
+.block .minicalendar td a {
+    color: #000;
+    font-weight: 600;
+}
+
+  @media only screen and (min-width: 0px){
+    ul.list-unstyled.pt-3 {
+        display: none;
+    }
+    }
+
+/*Joshua update*/
+.gotocal {
+font-weight:700;
+}
+
+/*Reduces the card title padding (Tristan)*/
+.card-title{
+padding: 6px!important;
+}
+
+/*Styling for footer (Tristan)*/
+.footer {
+  font-family: Arial, Helvetica, sans-serif;
+}
+.container {
+  max-width: 1170px;
+  margin: auto;
+}
+.footer-row {
+  display: flex;
+  flex-wrap: wrap;
+}
+.footer-links {
+  list-style: none;
+  padding-left: 0 !important;
+}
+.footer-col {
+  width: 20%;
+  padding: 0 15px;
+}
+.footer-col h4 {
+  font-size: 16px;
+  color: #ffffff;
+  text-transform: capitalize;
+  margin-bottom: 25px;
+  font-weight: 500;
+  position: relative;
+}
+.footer-col ul li:not(:last-child) {
+  margin-bottom: 10px;
+}
+.footer-col ul li a {
+  font-size: 14px;
+  text-decoration: none;
+  font-weight: 300;
+  color: #c0c0c0 !important;
+  display: block;
+  transition: all 0.5s ease;
+}
+.footer-col ul li a:hover {
+  color: #ffffff !important;
+  padding-left: 5px;
+}
+.footer-col .social-links a {
+  display: inline-block;
+  height: 27px;
+  width: 27px;
+  margin: 0 10px 10px 0;
+  text-align: center;
+  line-height: 28px;
+  border-radius: 50%;
+  color: white !important;
+  transition: all 0.3s ease;
+}
+.footer-col .social-links a:hover {
+  color: #61223b !important;
+  background-color: white !important;
+}
+.copyright {
+  display: flex;
+  justify-content: center;
+  font-size: 12px;
+  font-family: Arial, Helvetica, sans-serif;
+  color: white !important;
+  padding-top: 20px;
+}
+#page-wrapper #page-footer {
+  background-color: #61223b !important;
+  background-image: url(https://i.imgur.com/sUk9R6H.jpg);
+}
+/* Makes footer responsive */
+@media (max-width: 885px) {
+  .footer-col {
+    width: 40%;
+    margin-bottom: 30px;
+  }
+}
+@media (max-width: 574px) {
+  .footer-col {
+    width: 100%;
+  }
+}
+
+/* icons shane */
+a .icon {
+    font-family: 'FontAwesome';
+    font-weight: 100 !important;
+}
+
+/* login scrollbar css(shane) */
+body#page-site-index::-webkit-scrollbar {
+    width: 0;  /* Remove scrollbar space */
+    background: transparent;  /* Optional: just make scrollbar invisible */
+}
+
+/*Rounds border of top editor (Tristan)*/
+div.editor_atto_toolbar {
+    border-radius: 10px;
+}
+
+/*Adds margin left to the search bar in messages (Tristan)*/
+.input-group>.form-control, .input-group>.form-control-plaintext, .input-group>.custom-select, .input-group>.custom-file {
+    margin-left: 10px;
+}
+
+/*Adds border radius to search bar in messages (Tristan)*/
+.pr-2, .px-2 {
+    border-radius: 10px;
+}
+
+/*Centres heading in download centre (Tristan)*/
+.path-local-downloadcenter #region-main .card.block.grouped_settings {
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/*Rounds the border of download centre items (Tristan)*/
+.path-local-downloadcenter #region-main .card.block:nth-child(2n) {
+    border-radius: 10px;
+}
+.path-local-downloadcenter form .warningmessage {
+   display: flex;
+    flex-direction: row;
+    justify-content: center;
+}
+
+/* time input(shane) */
+.block_simple_clock .clockTable td {
+    pointer-events: none;
+}
+
+.fa-arrows:before {
+    font-family: 'FontAwesome';
+    font-weight: 200;
+}
+
+.fa-level-down:before {
+font-family: 'FontAwesome';
+font-weight: 200;
+}
+
+.fa-external-link:before {
+    font-family: 'FontAwesome';
+}
+
+/*Tristan update*/
+.date {
+    font-weight: bold;
+}
+
+/*Rounds nav links (Tristan)*/
+.nav-tabs .nav-link.active, .nav-tabs .nav-item.show .nav-link {
+    border-radius: 10px 10px 0px 0px;
+}
+.nav-tabs .nav-link {
+    border-radius: 10px 10px 0px 0px;
+}
+
+#goto-top-link a {
+    right: 1.5vh;
+    border-radius: 100%;
+    padding: 1rem;
+    padding-right: 10px;
+}
+.que .formulation {
+background-color: transparent;
+}
+
+.que.gapselect .qtext {
+    height: 60vh;
+    overflow-y: scroll;
+}
+
+
+.contact-us-btns-div{
+    display: flex;
+    flex-direction: column;
+}
+
+/* __CONTACT US__ */
+.Learning-hub-support-nav::-webkit-scrollbar, .Technical-Support-nav::-webkit-scrollbar{
+    display: none;
+}
+.hidden{
+    display: none;
+}
+.Learning-hub-support-nav, .Technical-Support-nav {
+    height: 20%;
+    width: 0px; 
+    position: fixed; 
+    z-index: 1000; 
+    right: 10px;
+    background-color: #ffffff;
+    box-shadow: 0px 0px 10px rgba(128, 128, 128, 0.445);
+    border-radius: 10px;
+    overflow-x: hidden; 
+    padding: 5px;
+    transition: all 0.5s ease-in-out; 
+  }
+  .Learning-hub-support-nav{
+    bottom: 43%;
+  }
+  .Technical-Support-nav{
+    bottom: 20%;
+  }
+/* content */
+  .Learning-hub-support-nav-heading, .Technical-Support-nav-heading{
+top: 0;
+display: flex;  
+justify-content: space-between;
+align-items: center;
+align-content: center;
+font-size: 1.2rem !important;
+color: black !important;
+border-bottom: 1px solid rgba(128, 128, 128, 0.445);
+  }
+  .Learning-hub-support-nav-content :is(p, a){
+font-size: 1rem;
+text-decoration: none;
+color: black;
+transition: all 0.5s ease-in-out; 
+padding: 5px;
+  }
+  .Technical-Support-nav-content :is(p, a){
+font-size: 1rem;
+text-decoration: none;
+color: black;
+transition: all 0.5s ease-in-out; 
+padding: 5px;
+  }
+.Learning-hub-support-nav-content :is(p, a):hover{
+text-decoration: underline;
+}
+.Technical-Support-nav-content :is(p, a):hover{
+    text-decoration: underline;
+}
+
+/* openbtn */
+#Learning-hub-support-btn, #Technical-Support-btn{
+margin-top: 5px;
+margin-bottom: 5px;
+padding: 10px;
+border: 1px solid grey;
+border-radius: 10px;
+width : 100%;
+}
+/* closebtn */
+  .Learning-hub-support-closebtn, .Technical-Support-closebtn{
+margin-top: -10px;
+text-decoration: none;
+font-size: 1.8rem;
+color: black;
+  }
+  .Learning-hub-support-closebtn:hover, .Technical-Support-closebtn:hover{
+    text-decoration: none;
+  }
+
+/*Adds hover effect to course cards (Tristan)*/
+.dashboard-card-deck .dashboard-card{
+transition: transform all ease-in-out;
+border-radius: 10px;
+}
+.dashboard-card-deck .dashboard-card:hover{
+transform: scale(1.01);
+}
+.dashboard-card-deck.one-row {
+    padding-top: 5px;
+}
+.block-myoverview div .card-deck {
+    padding-top: 5px;
+}
+
+/*burger-menu*/
+.bg-gray {
+    box-shadow: 0px 0px 5px #61233b;
+}
+
+.btn-light:focus{
+    outline: none;
+    box-shadow: 0px 0px 5px #61233b;
+}
+
+/*remove box shadow from recent courses*/
+.page-link:focus {
+    -webkit-box-shadow: none;
+    box-shadow: none;
+}
+
+/*Rounds borders of progress bars in course cards (Tristan)*/
+.block .block-cards .progress {
+    border-radius: 10px;
+}
+
+/*Rounds the borders of the summary items (Tristan)*/
+.block .block-cards .course-summaryitem {
+    border-radius: 10px;
+}
+
+/* (shane) grades responsivness */
+.path-grade-report-grader #region-main {
+    overflow-x: scroll !important;
+    max-width: 100% !important;
+}
+
+/*Rounds the borders of alerts (Tristan)*/
+.alert.alert-danger.alert-block.fade.in {
+    border-radius: 10px;
+}
+
+/*Removes box shadow from headers (Tristan)*/
+.fheader:focus{
+box-shadow:none;
+}
+
+/*Calendar styling (Tristan)*/
+.block .minicalendar th, .block .minicalendar td {
+    width: 30px;
+}
+.calendar_event_course {
+    background-color: transparent;
+}
+.block .minicalendar td a {
+    background-color: #e4cccc;
+    border-radius: 10px;
+}
+
+/*Tristan update*/
+.modal-content {
+    border-radius: 10px;
+}
+
+/*Makes view more in profile bold and aligns it to the left (Tristan)*/
+li.viewmore {
+    font-weight: bold;
+font-size: 16px!important;
+text-align: left!important;
+padding-top: 10px;
+}
+
+/*Makes edit profile bold and aligns it to the left (Tristan)*/
+li.editprofile {
+    font-weight: bold;
+font-size: 16px!important;
+text-align: left!important;
+padding-bottom: 10px;
+padding-top: 10px;
+}
+
+/*Changes headings in profile to bold and reduced the size of them (Tristan)*/
+.lead {
+    font-size: 1.1rem!important;
+    font-weight: bold!important;
+}
+
+/*Changes the font of "Go to calendar" to Lato (Tristan)*/
+.gotocal {
+    font-family: Lato;
+    color: black;
+    font-weight: bold;
+}
+
+/*Removes outline of nav links (Tristan)*/
+.nav-tabs .nav-link:focus{
+box-shadow: none;
+}
+
+/*Rounds border of saved changes message (Tristan)*/
+.alert.alert-success.alert-block.fade.in {
+    border-radius: 10px;
+}
+
+/*Removes gold outline from burger menu items (Tristan)*/
+.list-group-item:focus{
+box-shadow: none;
+}
+
+/*Adds hover effect to burger menu items (Tristan)*/
+.list-group-item:hover{
+color: white!important;
+background-color: #b79962;
+ transition: all ease 0.4s;
+}
+
+/*Adds gap between navigators in recent courses (Tristan)*/
+.pagination {
+    gap: 5px;
+}
+
+/*Rounds the borders of navigators in recent courses (Tristan)*/
+.page-link{
+border-radius: 10px;
+}
+
+/*Removes box shadow around notifications and messages in navbar (Tristan)*/
+.navbar .popover-region-toggle{
+box-shadow: none;
+}
+
+/*Wraps text in course cards (Tristan)*/
+.text-truncate {
+    text-wrap: wrap;
+}
+
+/*Adds hover effect to learning hub support buttons (Tristan)*/
+#Technical-Support-btn:hover{
+color: white!important;
+background-color: #b79962;
+ transition: all ease 0.4s;
+cursor: pointer;
+}
+#Learning-hub-support-btn:hover{
+color: white!important;
+background-color: #b79962;
+ transition: all ease 0.4s;
+cursor: pointer;
+}
+
+/*Centres navigation arrows in recently accessed courses (Tristan)*/
+.d-flex.paging-bar-container.mb-3 {
+    display: flex;
+    justify-content: center;
+    flex-direction: row;
+}
+
+/*Adds border to the top of the list version of courses (Tristan)*/
+.list-group-item+.list-group-item {
+    border-top-width: 1px!important;
+}
+
+/*Removes the white background when clicked (Tristan)*/
+a.aalink.coursename:focus{
+    background-color: transparent!important;
+}
+
+/*Adds spacing to the left of profile (Tristan)*/
+img.userpicture.defaultuserpic {
+    margin-left: 10px;
+}
+
+/*Removes outline from profile (Tristan)*/
+.action-menu .dropdown-toggle:focus {
+   box-shadow: none;
+}
+
+/*Increases the size of the notification icon (Tristan)*/
+i.icon.fa.fa-bell.fa-fw {
+    font-size: 20px;
+}
+
+/*Adds hover effect to the notification icon (Tristan)*/
+i.icon.fa.fa-bell.fa-fw:hover{
+color: #b79962;
+ transition: all ease 0.4s;
+}
+
+/*Increases the size of the message icon (Tristan)*/
+i.icon.fa.fa-comment.fa-fw {
+    font-size: 20px;
+}
+
+/*Adds hover effect to the message icon(Tristan)*/
+i.icon.fa.fa-comment.fa-fw:hover{
+color: #b79962;
+ transition: all ease 0.4s;
+}
+
+/*rounding on submission upload*/
+.filemanager-container, .filepicker-filelist {
+    border-radius: 10px;
+}
+
+/*Alert rounding on submissions*/
+.alert.alert-info.alert-block.fade.in {
+    border-radius: 10px;
+    margin-top: 5px;
+}
+
+/*No submission status*/
+.path-mod-assign td.submissionstatus, .path-mod-assign div.submissionstatus, .path-mod-assign a:link.submissionstatus {
+    background-color: #e68e8e;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+/*submission status*/
+.path-mod-assign td.submissionstatussubmitted, .path-mod-assign div.submissionstatussubmitted, .path-mod-assign a:link.submissionstatussubmitted {
+    border-radius: 10px;
+    padding: 5px;
+    font-weight: 600;
+}
+.path-mod-assign td.submissionstatusdraft, .path-mod-assign div.submissionstatusdraft, .path-mod-assign a:link.submissionstatusdraft {
+    background-color: #e68e8e;
+    border-radius: 10px;
+    padding: 5px;
+}
+
+/*submission status*/
+.released {
+    border-radius: 10px;
+    margin-top: 2px;
+    padding: 10px;
+    font-weight: bolder;
+}
+
+/*submission status*/
+.path-mod-assign td.latesubmission, .path-mod-assign a:link.latesubmission, .path-mod-assign div.latesubmission {
+    border-radius: 10px;
+    padding: 5px;
+    margin-top: 2px;
+}
+
+/*quiz info rounded*/
+.que .info {
+    border-radius: 10px;
+}
+
+/*quiz box shadow*/
+.input[type="checkbox"]:focus {
+    box-shadow: none;
+}
+
+/*border-profile-search*/
+input.form-control.border-left-0 {
+    border: 2px solid !important;
+}
+
+.border-left-0 {
+    border-left: 2px !important;
+}
+#page-mod-quiz-view .quizinfo, #page-mod-quiz-view #page .quizgradefeedback, #page-mod-quiz-view #page .quizattempt {
+    font-weight: 700;
+}
+
+/*Recent activity*/
+a.card.dashboard-card.mb-1.py-2.coursename {
+    height: 150px;
+}
+
+/*Scrollbar hover effect*/
+::-webkit-scrollbar-thumb:hover {
+    background-color: #61223b;
+}
+
+/*Horizontal scrollbar height*/
+::-webkit-scrollbar {
+    height: 10px;
+}
+
+/*Support bot styling (Tristan)*/
+/*Floating button*/
+.chat-button {
+  position: fixed;
+  z-index: 100;
+  bottom: 120px;
+  right: 15px;
+  background-color: #61223b;
+  color: #fff;
+  width: 50px;
+  height: 50px;
+  border-radius: 50%;
+  text-align: center;
+  line-height: 50px;
+  cursor: pointer;
+  box-shadow: 0px 0px 5px white;
+}
+/* The side navigation menu */
+.sidenav::-webkit-scrollbar {
+  display: none;
+}
+.sidenav {
+  margin-top: 10vh;
+  height: 80%;
+  width: 0; /* 0 width - change this with JavaScript */
+  position: fixed; /* Stay in place */
+  z-index: 1; /* Stay on top */
+  top: 0;
+  right: 8px;
+  overflow-x: hidden; /* Disable horizontal scroll */
+  padding-top: 60px; /* Place content 60px from the top */
+  border-radius: 10px;
+}
+.sidenav::-webkit-scrollbar {
+  display: none;
+}
+/* The navigation menu links */
+.sidenav a {
+  padding: 8px 8px 8px 32px;
+  text-decoration: none;
+  font-size: 25px;
+  color: white;
+  display: block;
+  transition: 0.3s;
+}
+/* When you mouse over the navigation links, change their color */
+.sidenav a:hover {
+  color: #f1f1f1;
+}
+/* Position and style the close button (top right corner) */
+.sidenav .closebtn {
+  position: absolute;
+  color: white;
+  top: 5px;
+  right: 25px;
+  font-size: 36px;
+  margin-left: 50px;
+}
+/* Style page content - use this if you want to push the page content to the right when you open the side navigation */
+#main {
+  transition: margin-left 0.5s;
+  padding: 20px;
+}
+.support-btn {
+  position: fixed;
+  top: 0;
+  right: 0;
+}
+a.closebtn.support-btn {
+  color: white !important;
+  margin-top: 25px;
+  right: 0;
+}
+.support-bot {
+  border-radius: 10px;
+  margin-top: -15px;
+  background-color: white;
+  border: 1px solid grey;
+}
+/* On smaller screens, where height is less than 450px, change the style of the sidenav (less padding and a smaller font size) */
+@media screen and (max-height: 450px) {
+  .sidenav {
+    padding-top: 15px;
+  }
+  .sidenav a {
+    font-size: 18px;
+  }
+}
+
+#page-mod-collabwordcloud-view .wc_empty {
+    display: block !important;
+}
